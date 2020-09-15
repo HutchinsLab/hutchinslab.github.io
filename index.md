@@ -1,7 +1,8 @@
 ---
+title: "Hutchins Lab"
 layout: default
 ---
-| [About](/about) | [Publications](/publications) | [People](/people) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [About](/about) | [Publications](/publications) | [People](/people) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 # Welcome to the Hutchins Lab
 

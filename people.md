@@ -18,5 +18,7 @@ Lindsay is in the Pharmacology and Toxicology undergraduate program at UW-Madiso
 ## Shinhyo Lee
 Shinhyo is the undergraduate student in UW-Madison studying Genetics and Psychology with a certificate in Global Health. After Graduation, she expects to further her education in healthcare through pursuing a Master’s degree in Nursing. She was born in South Korea but grew up moving around many different countries. Shinhyo enjoys socializing, reading books, or watching movies/shows.
 
+![Shinhyo Lee](/assets/shinhyo_256.png)
+
 ## Anna Schwenn
 Anna is from DeForest, Wisconsin. She is a junior majoring in Microbiology. Her plans for after graduation include going into industry pharmaceutical research, as sge has an internship with PPD this summer in their microbiology department. A hobby of hers is that she loves to run. She has competed in numerous half marathons, and actually ran her first marathon this past June.

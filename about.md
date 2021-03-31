@@ -4,6 +4,7 @@ layout: default
 permalink: /about/
 ---
 | [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+{% include cfanalytics.html %}
 
 # About Ian Hutchins
 

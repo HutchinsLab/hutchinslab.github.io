@@ -9,6 +9,7 @@ permalink: /people/
 # People
 
 ## Ian Hutchins
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7657-552X" href="https://orcid.org/0000-0001-7657-552X" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7657-552X</a></div>
 Ian Hutchins is an Assistant Professor of Data and Information Science at the University of Wisconsin-Madison Information School. Prof. Hutchins previously worked as a data scientist at NIH, where he developed the [iCite](https://icite.od.nih.gov) bibliometrics dashboard, along with many of its quantitative metrics and the [NIH Open Citation Collection](http://doi.org/10.1371/journal.pbio.3000385) database. He also coached high school fencing for nearly a decade.
 
 ![Ian Hutchins](/assets/ian_256.png)

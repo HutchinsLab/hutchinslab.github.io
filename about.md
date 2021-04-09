@@ -2,6 +2,7 @@
 title: "Hutchins Lab"
 layout: default
 permalink: /about/
+show_downloads: false
 ---
 {% include cfanalytics.html %}
 | [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |

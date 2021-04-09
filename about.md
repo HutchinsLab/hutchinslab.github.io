@@ -15,4 +15,4 @@ Ian is an Assistant Professor of Data and Information Science at the University 
 Helen C White Hall  
 600 North Park Street, Rm. 4262  
 Madison, WI 53706  
-bihutchins *at* wisc.edu
+bihutchins *at* wisc edu

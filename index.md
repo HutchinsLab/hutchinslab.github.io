@@ -14,7 +14,7 @@ Our research seeks to find ways to improve the research enterprise and accelerat
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=q2f8yfrvwrsscz9s)
 
-Hutchins, B Ian. “A tipping point for open citation data.” Quantitative Science Studies. 2021. *Accepted*
+Hutchins, B Ian. “A tipping point for open citation data.” Quantitative Science Studies vol. 2(2):00138 2021, doi: [10.1162/qss_c_00138](https://doi.org/10.1162/qss_c_00138)
 
 Hutchins, B Ian et al. “Predicting translational progress in biomedical research.” PLoS biology vol. 17,10 e3000416. 10 Oct. 2019 [doi:10.1371/journal.pbio.3000416](http://doi.org/10.1371/journal.pbio.3000416) [PMID:31600189](https://pubmed.ncbi.nlm.nih.gov/31600189/)
 

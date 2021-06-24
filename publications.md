@@ -4,7 +4,7 @@ layout: default
 permalink: /publications/
 ---
 {% include cfanalytics.html %}
-| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |  [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 # Publications
 

@@ -5,7 +5,7 @@ permalink: /about/
 show_downloads: false
 ---
 {% include cfanalytics.html %}
-| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |  [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 # About Ian Hutchins
 
@@ -14,6 +14,6 @@ Ian is an Assistant Professor of Data and Information Science at the University 
 ![Ian Hutchins](/assets/ian_256.png)
 
 Helen C White Hall  
-600 North Park Street, Rm. 4262  
+600 North Park Street, Rm. 4228  
 Madison, WI 53706  
 bihutchins *at* wisc edu

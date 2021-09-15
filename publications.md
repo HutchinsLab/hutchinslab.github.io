@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=q2f8yfrvwrsscz9s)
 
-**Hutchins, BI**. **A tipping point for open citation data.** Quantitative Science Studies. 2021;2(2):00138 doi: [10.1162/qss_c_00138](https://doi.org/10.1162/qss_c_00138)
+**Hutchins, BI**. **A tipping point for open citation data.** Quantitative Science Studies. 2021;2(2):00138 doi: [10.1162/qss_c_00138](https://doi.org/10.1162/qss_c_00138) PMID: [34505061](https://pubmed.ncbi.nlm.nih.gov/34505061/)
 
 **Hutchins BI**, Davis MT, Meseroll RA, Santangelo GM. **Predicting translational progress in biomedical research**. PLoS Biol. 2019 Oct 10;17(10):e3000416. doi: [10.1371/journal.pbio.3000416](https://doi.org/10.1371/journal.pbio.3000416). PMID: [31600189](https://pubmed.ncbi.nlm.nih.gov/31600189/); PMCID: PMC6786525.
 

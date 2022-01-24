@@ -8,6 +8,9 @@ permalink: /news/
 | [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 ## In the news
+- [Academia’s missing references](https://opencitations.wordpress.com/2021/09/23/academias-missing-references/), *OpenCitations*
+
+- [Crossing a significant threshold: more than one billion citations](https://opencitations.wordpress.com/2021/08/04/crossing-a-significant-threshold-more-than-one-billion-citations-now-available-in-coci/), *OpenCitations*
 
 - [Artificial-intelligence tools aim to tame the coronavirus literature](https://www.nature.com/articles/d41586-020-01733-7), *Nature Technology Feature*
 

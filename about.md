@@ -5,7 +5,8 @@ permalink: /about/
 show_downloads: false
 ---
 {% include cfanalytics.html %}
-| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |  [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |
+| [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 # About Ian Hutchins
 

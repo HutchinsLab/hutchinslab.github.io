@@ -3,10 +3,11 @@ title: "Hutchins Lab"
 layout: default
 ---
 {% include cfanalytics.html %}
-| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |  [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |
+| [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 # Welcome to the Hutchins Lab
-
+*A member of the UW-Madison [Metascience Research Lab](https://www.metascience-lab.com/)*
 Our research seeks to find ways to improve the research enterprise and accelerate biomedical research advances using quantitative analysis of information networks and machine learning. Prof. Hutchins previously worked as a data scientist at NIH, where he developed the iCite bibliometrics dashboard, along with many of its quantitative metrics and the NIH Open Citation Collection database. He also spearheaded the development of the NIH COVID-19 Portfolio to track and disseminate cutting-edge COVID-19 research in real time.
 
 ![Knowledge flow in a network of cancer immunotherapy publications](/assets/immunotherapy.gif "Knowledge flow in a network of breakthrough cancer immunotherapy publications. Credit, Ian Hutchins")

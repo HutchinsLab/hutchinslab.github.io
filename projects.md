@@ -1,11 +1,8 @@
 ---
 title: "Hutchins Lab"
 layout: default
-permalink: /resources/
+permalink: /projects/
 ---
 {% include cfanalytics.html %}
 | [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |
 | [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
-
-[Getting your papers from MyNCBI into iCite](/resources/myncbi)
-

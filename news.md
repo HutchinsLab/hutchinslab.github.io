@@ -4,7 +4,8 @@ layout: default
 permalink: /news/
 ---
 {% include cfanalytics.html %}
-| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |  [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
+| [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |
+| [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 ## In the news
 

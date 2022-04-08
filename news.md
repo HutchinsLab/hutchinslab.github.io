@@ -12,7 +12,11 @@ permalink: /news/
 
 - [Crossing a significant threshold: more than one billion citations](https://opencitations.wordpress.com/2021/08/04/crossing-a-significant-threshold-more-than-one-billion-citations-now-available-in-coci/), *OpenCitations*
 
+- [Opinion: Impact factors and Renal Journals](http://www.nephronpower.com/2021/07/opinion-impact-factors-and-renal.html) NephronPower - the academic renal blog
+
 - [Artificial-intelligence tools aim to tame the coronavirus literature](https://www.nature.com/articles/d41586-020-01733-7), *Nature Technology Feature*
+
+- [Relative Citation Metrics](https://www.jorgeherskovic.net/relative-citation-metrics/) Jorge Herskovic Blog
 
 - [Black Scientists Held Back by Perceptions of Their Priorities](https://www.nytimes.com/2019/10/23/upshot/black-scientists-funding-gap.html), *New York Times*
 

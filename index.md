@@ -16,7 +16,7 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=75dxzqmnikoctf10)
 
-Hoppe, Travis A. et al. “Predicting causal citations without full text”, bioRxiv 2022 [doi:10.1101/498860](https://doi.org/10.1101/498860)
+Hoppe, Travis A. et al. “Predicting causal citations without full text”, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
 
 Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, 22 February 2022, (Version 1) available at Research Square doi: [10.21203/rs.3.rs-1344293/v1](https://doi.org/10.21203/rs.3.rs-1344293/v1)
 

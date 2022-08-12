@@ -11,9 +11,9 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=q2f8yfrvwrsscz9s)
 
-Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
+Nelson, L, Ye H, Schwenn A, Lee S, Arabi S, and **Hutchins BI**. **Robustness of evidence reported in preprints during peer review**, 2022, *Accpeted at The Lancet Global Health*, available early at doi: [10.21203/rs.3.rs-1344293/v1](https://doi.org/10.21203/rs.3.rs-1344293/v1)
 
-Nelson, L, Ye H, Schwenn A, Lee S, Arabi S, and **Hutchins BI**. **Robustness of evidence reported in preprints during peer review**, 22 February 2022, (Version 1) available at Research Square doi: [10.21203/rs.3.rs-1344293/v1](https://doi.org/10.21203/rs.3.rs-1344293/v1)
+Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
 
 **Hutchins, BI**. **A tipping point for open citation data.** Quantitative Science Studies. 2021;2(2):00138 doi: [10.1162/qss_c_00138](https://doi.org/10.1162/qss_c_00138) PMID: [34505061](https://pubmed.ncbi.nlm.nih.gov/34505061/)
 

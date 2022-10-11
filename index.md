@@ -16,7 +16,7 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=75dxzqmnikoctf10)
 
-Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, 2022, Accepted at *The Lancet Global Health*, available early at doi: [10.21203/rs.3.rs-1344293/v1](https://doi.org/10.21203/rs.3.rs-1344293/v1)
+Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, Lancet Glob Health 2022 10:e1684-87: doi: [10.1016/S2214-109X(22)00368-0](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00368-0/fulltext)
 
 Hoppe, Travis A. et al. “Predicting causal citations without full text”, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
 

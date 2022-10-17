@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=jxdyjtnldv3bkd6l)
 
-Nelson, L, Ye H, Schwenn A, Lee S, Arabi S, and **Hutchins BI**. **Robustness of evidence reported in preprints during peer review**, Lancet Glob Health 2022 10:e1684-87: [doi:10.1016/S2214-109X(22)00368-0](https://doi.org/10.1016/S2214-109X(22)00368-0) [PMID:36240832](https://pubmed.ncbi.nlm.nih.gov/36240832/)
+Nelson, L, Ye H, Schwenn A, Lee S, Arabi S, and **Hutchins BI**. **Robustness of evidence reported in preprints during peer review**, Lancet Glob Health 2022 10:e1684-87: doi: [10.1016/S2214-109X(22)00368-0](https://doi.org/10.1016/S2214-109X(22)00368-0) PMID: [36240832](https://pubmed.ncbi.nlm.nih.gov/36240832/) PMCID: PMC9553196.
 
 Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
 

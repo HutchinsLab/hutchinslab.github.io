@@ -27,9 +27,6 @@ Samantha is an undergraduate studying Economics with a certificate in Data Scien
 ## Satvik Shukla
 Satvik is a graduate student at the University of Wisconsin- Madison, Information School pursuing an MS in Information, building on his prior degree in Information Technology(Soft Computing) from the University of Pune, India.  He has professionally worked on multiple projects in the data sphere majorly focusing on user behavior and analysis in the demand and supply industry. His research interests lie in the amalgamation of Data Science, Human-Centered Computing, and Decision Science. He loves hiking, and working his way through every recipe in the family cookbook, and playing Soccer and Badminton.
 
-## Jai Potnuri
-Jai is a graduate student at the University of Wisconsin - Madison, Information School pursuing MS in Information. His research interest lies in Programming, Data Science, UX, and HCI. He loves travelling, swimming and playing Badminton.
-
 ## Sophia Yang
 Sophia is a student at the University of Wisconsin-Madison working in the Metascience Research Lab to provide computational and analytical support. Her reserach methods include cluster computing and exploratory data analysis.
 
@@ -46,3 +43,6 @@ Anna is from DeForest, Wisconsin. She worked in the Hutchins lab when she was a 
 
 ## Shinhyo Lee
 Shinhyo was a research assistant in the Hutchins lab when she was an undergraduate student in UW-Madison studying Genetics and Psychology with a certificate in Global Health. After graduation, she went on to further her education in healthcare through pursuing a Master’s degree in Nursing. She was born in South Korea but grew up moving around many different countries.
+
+## Jai Potnuri
+Jai was a graduate student at the University of Wisconsin - Madison, Information School pursuing MS in Information. His research interest lies in Programming, Data Science, UX, and HCI. He loves travelling, swimming and playing Badminton.

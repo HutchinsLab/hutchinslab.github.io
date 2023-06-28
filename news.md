@@ -8,6 +8,10 @@ permalink: /news/
 | [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
 ## In the news
+- [UW researchers show COVID-19 preprint data remains largely unchanged after peer review](https://badgerherald.com/news/2022/11/11/uw-researchers-show-covid-19-preprint-data-remains-largely-unchanged-after-peer-review/) *The Badger Herald*
+
+- [Most preprint studies of COVID-19 hold up through peer-review](https://news.wisc.edu/most-preprint-studies-of-covid-19-hold-up-through-peer-review/) *UW-Madison News*
+
 - [Academia’s missing references](https://opencitations.wordpress.com/2021/09/23/academias-missing-references/), *OpenCitations*
 
 - [Crossing a significant threshold: more than one billion citations](https://opencitations.wordpress.com/2021/08/04/crossing-a-significant-threshold-more-than-one-billion-citations-now-available-in-coci/), *OpenCitations*

@@ -16,9 +16,9 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=487o3v6px1fss9xh)
 
-Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, Lancet Glob Health 2022 10:e1684-87 [doi:10.1016/S2214-109X(22)00368-0](https://doi.org/10.1016/S2214-109X(22)00368-0) [PMID:36240832](https://pubmed.ncbi.nlm.nih.gov/36240832/)
+Hoppe, Travis A. et al. “Predicting causal citations without full text”, Proceedings of the National Academy of Sciences (In Press) 2023 [doi:10.1101/2022.07.05.498860 (preprint ahead of press)](https://doi.org/10.1101/2022.07.05.498860)
 
-Hoppe, Travis A. et al. “Predicting causal citations without full text”, bioRxiv 2022 [doi:10.1101/2022.07.05.498860](https://doi.org/10.1101/2022.07.05.498860)
+Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, Lancet Glob Health 2022 10:e1684-87 [doi:10.1016/S2214-109X(22)00368-0](https://doi.org/10.1016/S2214-109X(22)00368-0) [PMID:36240832](https://pubmed.ncbi.nlm.nih.gov/36240832/)
 
 Hutchins, B Ian. “A tipping point for open citation data.” Quantitative Science Studies vol. 2(2):00138 2021, doi: [10.1162/qss_c_00138](https://doi.org/10.1162/qss_c_00138) [PMID:34505061](https://pubmed.ncbi.nlm.nih.gov/34505061/)
 

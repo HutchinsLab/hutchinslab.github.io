@@ -21,7 +21,7 @@ Salsabil is a Ph.D. student at the UW Madison iSchool. Her research interests li
 ## Baolu Yu
 Baolu is a staff scientist in the Metascience Research Lab after graduating from the UW-Madison MS Information Program in 2023. Her reserach involves machine learning, data science pipelines, and predicting future technological innovation.
 
-## Fangton Dou
+## Fangtong Dou
 Fangtong is a graduate student in the MS Information program at UW-Madison, with an undergraduate in Computer Science. Her research interests include Data Visualization and Machine Learning. She enjoys cooking, she also loves animals, and has adopted a stray cat.
 
 ## Yuang Fan

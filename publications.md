@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-### [iCite profile](https://icite.od.nih.gov/analysis?search_id=487o3v6px1fss9xh)
+### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
-Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, Proceedings of the National Academy of Sciences (In Press) 2023 [doi:10.1101/2022.07.05.498860 (preprint ahead of press)](https://doi.org/10.1101/2022.07.05.498860)
+Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, Proceedings of the National Academy of Sciences (In Press) 2023 [doi:10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120)
 
 **Hutchins BI** **Preprints versus peer-reviewed articles - Author's reply.**, , Lancet Glob Health 2022 11:e1684-87: doi: [10.1016/s2214-109x(22)00556-3](https://doi.org/10.1016/s2214-109x(22)00556-3) PMID: [36669804](https://pubmed.ncbi.nlm.nih.gov/36669804/) PMCID: PMC9848405.
 

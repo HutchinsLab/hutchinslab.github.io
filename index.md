@@ -14,9 +14,9 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ![Knowledge flow in a network of cancer immunotherapy publications](/assets/immunotherapy.gif "Knowledge flow in a network of breakthrough cancer immunotherapy publications. Credit, Ian Hutchins")
 
 ## Selected Publications
-### [iCite profile](https://icite.od.nih.gov/analysis?search_id=487o3v6px1fss9xh)
+### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
-Hoppe, Travis A. et al. “Predicting causal citations without full text”, Proceedings of the National Academy of Sciences (In Press) 2023 [doi:10.1101/2022.07.05.498860 (preprint ahead of press)](https://doi.org/10.1101/2022.07.05.498860)
+Hoppe, Travis A. et al. “Predicting causal citations without full text”, Proceedings of the National Academy of Sciences (In Press) 2023 [doi:10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120) [PMID: 37463199](https://pubmed.ncbi.nlm.nih.gov/37463199/)
 
 Nelson, Lindsay et al. “Robustness of evidence reported in preprints during peer review”, Lancet Glob Health 2022 10:e1684-87 [doi:10.1016/S2214-109X(22)00368-0](https://doi.org/10.1016/S2214-109X(22)00368-0) [PMID:36240832](https://pubmed.ncbi.nlm.nih.gov/36240832/)
 

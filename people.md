@@ -16,16 +16,16 @@ Ian Hutchins is an Assistant Professor of Data and Information Science at the Un
 ![Ian Hutchins](/assets/ian_256.png)
 
 ## Salsabil Arabi
-Salsabil is a Ph.D. student at the UW Madison iSchool in Fall '21. Her research interests lie at the intersection of Data Science, HCI, and ML. She is interested in extracting insights from data and intertwining those with real-world issues. She is particularly inclined towards solving human-centric and health-related problems with the motivation to add ease to human life. Previously, she completed her B.Sc. in Computer Science from Bangladesh University of Engineering and Technology in Fall '19. Visit her [website](https://salsabil007.github.io/Salsabil007/) in case you are interested in her previous projects and publications.
+Salsabil is a Ph.D. student at the UW Madison iSchool. Her research interests lie at the intersection of Data Science, HCI, and ML. She is interested in extracting insights from data and intertwining those with real-world issues. She is particularly inclined towards solving human-centric and health-related problems with the motivation to add ease to human life. Previously, she completed her B.Sc. in Computer Science from Bangladesh University of Engineering and Technology in Fall '19.
 
-## Shiyi He
-Shiyi is a graduate student in the MS Information program at UW-Madison. Her research interests lie in Data Science, Machine Learning, Human-Computer Interaction, and Natural Language Processing. She interned at Lexical Intelligence, LLC. Shiyi completed her B.S. in Information Management and Systems at East China Normal University. 
+## Baolu Yu
+Baolu is a staff scientist in the Metascience Research Lab after graduating from the UW-Madison MS Information Program in 2023. Her reserach involves machine learning, data science pipelines, and predicting future technological innovation.
 
-## Samantha Wang
-Samantha is an undergraduate studying Economics with a certificate in Data Science. After graduation, she plans to further her education in Business Analysis/Data Science programs at graduate school. The goal of her study in data science is to apply advanced analytical tools and techniques to help people in need and to find practical solutions to serious issues of economic, safety, and well-being for diverse populations. She loves cats and one dream is to have a ragdoll cat.
+## Fangton Dou
+Fangtong is a graduate student in the MS Information program at UW-Madison, with an undergraduate in Computer Science. Her research interests include Data Visualization and Machine Learning. She enjoys cooking, she also loves animals, and has adopted a stray cat.
 
-## Satvik Shukla
-Satvik is a graduate student at the University of Wisconsin- Madison, Information School pursuing an MS in Information, building on his prior degree in Information Technology(Soft Computing) from the University of Pune, India.  He has professionally worked on multiple projects in the data sphere majorly focusing on user behavior and analysis in the demand and supply industry. His research interests lie in the amalgamation of Data Science, Human-Centered Computing, and Decision Science. He loves hiking, and working his way through every recipe in the family cookbook, and playing Soccer and Badminton.
+## Yuang Fan
+Yuang Fan is a master student in Information Science at the University of Wisconsin-Madison.He has experience in machine learning, database technologies, and software development through research and internships. 
 
 ## Sophia Yang
 Sophia is a student at the University of Wisconsin-Madison working in the Metascience Research Lab to provide computational and analytical support. Her reserach methods include cluster computing and exploratory data analysis.
@@ -46,3 +46,12 @@ Shinhyo was a research assistant in the Hutchins lab when she was an undergradua
 
 ## Jai Potnuri
 Jai was a graduate student at the University of Wisconsin - Madison, Information School pursuing MS in Information. His research interest lies in Programming, Data Science, UX, and HCI. He loves travelling, swimming and playing Badminton.
+
+## Shiyi He
+Shiyi was a graduate student in the MS Information program at UW-Madison. Her research interests lie in Data Science, Machine Learning, Human-Computer Interaction, and Natural Language Processing. She interned at Lexical Intelligence, LLC. Shiyi completed her B.S. in Information Management and Systems at East China Normal University. 
+
+## Samantha Wang
+Samantha was an undergraduate studying Economics with a certificate in Data Science. She planned to further her experience in Business Analysis/Data Science programs at graduate school. The goal of her study in data science was to apply advanced analytical tools and techniques to help people in need and to find practical solutions to serious issues of economic, safety, and well-being for diverse populations. She loves cats and one dream is to have a ragdoll cat.
+
+## Satvik Shukla
+Satvik was a graduate student at the University of Wisconsin- Madison, Information School pursuing an MS in Information, building on his prior degree in Information Technology(Soft Computing) from the University of Pune, India. He has professionally worked on multiple projects in the data sphere majorly focusing on user behavior and analysis in the demand and supply industry. His research interests lie in the amalgamation of Data Science, Human-Centered Computing, and Decision Science. He loves hiking, and working his way through every recipe in the family cookbook, and playing Soccer and Badminton.

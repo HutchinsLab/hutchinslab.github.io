@@ -13,7 +13,7 @@ permalink: /publications/
 
 Arabi S, Ni C, and **Hutchins BI**. **You do not receive enough recognition for your influential science** bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 
-Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, Proceedings of the National Academy of Sciences 2023 doi: [10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120) PMID: [37463199](https://pubmed.ncbi.nlm.nih.gov/37463199/) PMCID: PMC10372685.
+Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting substantive biomedical citations without full text**, Proceedings of the National Academy of Sciences 2023 doi: [10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120) PMID: [37463199](https://pubmed.ncbi.nlm.nih.gov/37463199/) PMCID: PMC10372685.
 
 **Hutchins BI** **Preprints versus peer-reviewed articles - Author's reply.**, , Lancet Glob Health 2023 11:e1684-87: doi: [10.1016/s2214-109x(22)00556-3](https://doi.org/10.1016/s2214-109x(22)00556-3) PMID: [36669804](https://pubmed.ncbi.nlm.nih.gov/36669804/) PMCID: PMC9848405.
 

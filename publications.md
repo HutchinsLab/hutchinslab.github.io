@@ -11,6 +11,8 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
+Zheng X, Yang Q, Potnuri J, Ni C, and Hutchins BI **Analysis of the comparative strengths of intramural and extramural grant funding mechanisms**, bioRxiv 2023 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+
 Arabi S, Ni C, and **Hutchins BI**. **You do not receive enough recognition for your influential science** bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 
 Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting causal citations without full text**, Proceedings of the National Academy of Sciences 2023 doi: [10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120) PMID: [37463199](https://pubmed.ncbi.nlm.nih.gov/37463199/) PMCID: PMC10372685.

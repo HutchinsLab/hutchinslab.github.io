@@ -11,7 +11,11 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
-Zheng X, Yang Q, Potnuri J, Ni C, and Hutchins BI **Analysis of the comparative strengths of intramural and extramural grant funding mechanisms**, bioRxiv 2023 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+Zheng X, Yang Q, Potnuri J, Ni C, and Hutchins BI **Comparing the outputs of intramural and extramural grants funded by National Institutes of Health**, bioRxiv 2025 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+
+Arabi S, Zheng X, **Hutchins BI**, Ni, C (2025) **Equity in science journalism: Investigating gender disparities in news media coverage of science research.**, Science Communication. doi:[10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
+
+Ni C and **Hutchins BI** (2025) **Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease.**, JASIST. 1-12. DOI.
 
 Arabi S, Ni C, and **Hutchins BI**. **You do not receive enough recognition for your influential science** bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 

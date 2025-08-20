@@ -16,7 +16,11 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
-Zheng, Xiang et al. “Analysis of the comparative strengths of intramural and extramural grant funding mechanisms”, bioRxiv 2023 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+Zheng, Xiang et al. “Comparing the outputs of intramural and extramural grants funded by National Institutes of Health”, bioRxiv 2025 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+
+Arabi, Salsabil et al. (2025) "Equity in science journalism: Investigating gender disparities in news media coverage of science research.", Science Communication. doi:[10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
+
+Ni Chaoqun and Hutchins B. Ian (2025) "Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease.", JASIST. 1-12. doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 
 Arabi, Salsabil, et al. “You do not receive enough recognition for your influential science”, bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 

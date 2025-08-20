@@ -15,7 +15,7 @@ Zheng X, Yang Q, Potnuri J, Ni C, and Hutchins BI **Comparing the outputs of int
 
 Arabi S, Zheng X, **Hutchins BI**, Ni, C (2025) **Equity in science journalism: Investigating gender disparities in news media coverage of science research.**, Science Communication. doi:[10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
 
-Ni C and **Hutchins BI** (2025) **Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease.**, JASIST. 1-12. DOI.
+Ni C and **Hutchins BI** (2025) **Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease.**, JASIST. 1-12. doi: [10.1002/asi.25009](https://doi.org/10.1002/asi.25009)
 
 Arabi S, Ni C, and **Hutchins BI**. **You do not receive enough recognition for your influential science** bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 

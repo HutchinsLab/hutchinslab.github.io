@@ -16,7 +16,7 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ## Selected Publications
 ### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
 
-Zheng, Xiang et al. “Comparing the outputs of intramural and extramural grants funded by National Institutes of Health”, bioRxiv 2025 doi: [10.1101/2023.11.09.566298](https://doi.org/10.1101/2023.11.09.566298)
+Zheng, Xiang et al. “Comparing the outputs of intramural and extramural grants funded by National Institutes of Health”, eLife 2025 doi: [https://doi.org/10.7554/eLife.108929.1](https://doi.org/10.7554/eLife.108929.1)
 
 Arabi, Salsabil et al. (2025) "Equity in science journalism: Investigating gender disparities in news media coverage of science research.", Science Communication. doi:[10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
 

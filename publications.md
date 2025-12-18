@@ -9,7 +9,9 @@ permalink: /publications/
 
 # Publications
 
-### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
+### [iCite profile](https://icite.od.nih.gov/results?searchId=7aec7e7069224427800a0e2285e84a12)
+
+Davis MT, Busse BL, Arabi S, Meyer P, Hoppe TA, Meseroll RA, **Hutchins BI**, Willis KA, and Santangelo GM (2025) **Prediction of transformative breakthroughs in biomedical research**, bioRxiv doi: [10.64898/2025.12.16.694385](https://www.biorxiv.org/content/10.64898/2025.12.16.694385) PMID: [41401134](https://pubmed.ncbi.nlm.nih.gov/41401134/)
 
 Arabi S, Ni C, and **Hutchins BI** (2025) **Most researchers would receive more recognition if assessed by article level metrics than by journal level metrics**, PLOS Biology doi: [10.1371/journal.pbio.3003532](https://doi.org/10.1371/journal.pbio.3003532)
 
@@ -18,8 +20,6 @@ Zheng X, Yang Q, Potnuri J, Ni C, and **Hutchins BI** (2025) **Comparing the out
 Arabi S, Zheng X, **Hutchins BI**, Ni, C (2025) **Equity in science journalism: Investigating gender disparities in news media coverage of science research.**, Science Communication. doi:[10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
 
 Ni C and **Hutchins BI** (2025) **Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease.**, JASIST. 1-12. doi: [10.1002/asi.25009](https://doi.org/10.1002/asi.25009)
-
-Arabi S, Ni C, and **Hutchins BI**. **You do not receive enough recognition for your influential science** bioRxiv 2023 doi: [10.1101/2023.09.07.556750](https://doi.org/10.1101/2023.09.07.556750)
 
 Hoppe TA, Arabi S, and **Hutchins BI**. **Predicting substantive biomedical citations without full text**, Proceedings of the National Academy of Sciences 2023 doi: [10.1073/pnas.2213697120](https://doi.org/10.1073/pnas.2213697120) PMID: [37463199](https://pubmed.ncbi.nlm.nih.gov/37463199/) PMCID: PMC10372685.
 

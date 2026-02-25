@@ -11,6 +11,8 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/results?searchId=7aec7e7069224427800a0e2285e84a12)
 
+Afshar AS, Yang Q, Thebault-Spieker J, and **Hutchins BI** (2026) **Quantifying (Mis)alignment Between Reader Focus and Editor Citation in Scholarly Biomedical Topics in Wikipedia**, Quantitative Science Studies doi:[10.1162/QSS.a.457](https://doi.org/10.1162/QSS.a.457)
+
 Davis MT, Busse BL, Arabi S, Meyer P, Hoppe TA, Meseroll RA, **Hutchins BI**, Willis KA, and Santangelo GM (2025) **Prediction of transformative breakthroughs in biomedical research**, bioRxiv doi: [10.64898/2025.12.16.694385](https://www.biorxiv.org/content/10.64898/2025.12.16.694385)
 
 Arabi S, Ni C, and **Hutchins BI** (2025) **Most researchers would receive more recognition if assessed by article level metrics than by journal level metrics**, PLOS Biology doi: [10.1371/journal.pbio.3003532](https://doi.org/10.1371/journal.pbio.3003532) PMID: [41401134](https://pubmed.ncbi.nlm.nih.gov/41401134/)

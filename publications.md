@@ -11,6 +11,8 @@ permalink: /publications/
 
 ### [iCite profile](https://icite.od.nih.gov/results?searchId=7aec7e7069224427800a0e2285e84a12)
 
+Hong X, Ni C, and **Hutchins BI** (2026) **Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints**, bioRxiv doi: [10.64898/2026.03.02.709147 ](https://doi.org/10.64898/2026.03.02.709147)
+
 Afshar AS, Yang Q, Thebault-Spieker J, and **Hutchins BI** (2026) **Quantifying (Mis)alignment Between Reader Focus and Editor Citation in Scholarly Biomedical Topics in Wikipedia**, Quantitative Science Studies doi:[10.1162/QSS.a.457](https://doi.org/10.1162/QSS.a.457)
 
 Davis MT, Busse BL, Arabi S, Meyer P, Hoppe TA, Meseroll RA, **Hutchins BI**, Willis KA, and Santangelo GM (2025) **Prediction of transformative breakthroughs in biomedical research**, bioRxiv doi: [10.64898/2025.12.16.694385](https://www.biorxiv.org/content/10.64898/2025.12.16.694385)

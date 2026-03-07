@@ -96,30 +96,42 @@
   // Triangle renderer
   // ---------------------------------------------------------------------------
   function drawTriangle(ctx, pub) {
-    const hasCoords = pub.x_coord != null && pub.y_coord != null;
+    // Papers with no relevant MeSH terms have all-zero scores → grey out
+    const noMesh = !pub.human && !pub.animal && !pub.molecular_cellular;
+    const hasCoords = !noMesh && pub.x_coord != null && pub.y_coord != null;
     const dotPx = hasCoords ? tpx(pub.x_coord) : null;
     const dotPy = hasCoords ? tpy(pub.y_coord) : null;
 
-    // Gaussian kernel fill – pixel by pixel inside the triangle
-    const imgData = ctx.createImageData(W, H);
-    const buf = imgData.data;
-    const yTop = Math.floor(TRI_TOP);
-    const yBot = Math.ceil(TRI_TOP + TH);
+    if (noMesh) {
+      // Grey fill — no position data available for this paper
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(tpx(VH[0]), tpy(VH[1]));
+      ctx.lineTo(tpx(VA[0]), tpy(VA[1]));
+      ctx.lineTo(tpx(VM[0]), tpy(VM[1]));
+      ctx.closePath();
+      ctx.fillStyle = '#c8c8c8';
+      ctx.fill();
+      ctx.restore();
+    } else {
+      // Gaussian kernel fill – pixel by pixel inside the triangle
+      const imgData = ctx.createImageData(W, H);
+      const buf = imgData.data;
+      const yTop = Math.floor(TRI_TOP);
+      const yBot = Math.ceil(TRI_TOP + TH);
 
-    for (let iy = yTop; iy <= yBot; iy++) {
-      for (let ix = COL1_LEFT; ix < COL1_LEFT + COL_W; ix++) {
-        if (!inTriangle(tbx(ix), tby(iy))) continue;
-        let t = 0;
-        if (hasCoords) {
+      for (let iy = yTop; iy <= yBot; iy++) {
+        for (let ix = COL1_LEFT; ix < COL1_LEFT + COL_W; ix++) {
+          if (!inTriangle(tbx(ix), tby(iy))) continue;
           const dx = ix - dotPx, dy = iy - dotPy;
-          t = Math.exp(-(dx * dx + dy * dy) / (2 * SIGMA * SIGMA));
+          const t = Math.exp(-(dx * dx + dy * dy) / (2 * SIGMA * SIGMA));
+          const [r, g, b] = colorAt(t);
+          const idx = (iy * W + ix) * 4;
+          buf[idx] = r; buf[idx + 1] = g; buf[idx + 2] = b; buf[idx + 3] = 255;
         }
-        const [r, g, b] = colorAt(t);
-        const idx = (iy * W + ix) * 4;
-        buf[idx] = r; buf[idx + 1] = g; buf[idx + 2] = b; buf[idx + 3] = 255;
       }
+      ctx.putImageData(imgData, 0, 0);
     }
-    ctx.putImageData(imgData, 0, 0);
 
     // Triangle outline
     ctx.beginPath();
@@ -142,7 +154,7 @@
     ctx.textAlign = 'right';
     ctx.fillText('M/C', tpx(VM[0]) - 3, tpy(VM[1]) + 10);
 
-    // Paper dot
+    // Paper dot (only when position is meaningful)
     if (hasCoords) {
       ctx.beginPath();
       ctx.arc(dotPx, dotPy, 3.5, 0, 2 * Math.PI);
@@ -189,7 +201,7 @@
     // ---- Gauge 1: arc = NIH percentile, interior = RCR value ----
     drawArc(ctx, COL2_CX, ARC_CY, ARC_R,
       nihPct != null ? nihPct / 100 : 0,
-      '#2196F3');
+      '#662f6c');  // iCite brand purple
 
     ctx.textAlign = 'center';
     ctx.font = 'bold 12px sans-serif';
@@ -220,11 +232,11 @@
 
       ctx.font = '8px sans-serif';
       ctx.fillStyle = '#999';
-      ctx.fillText('confirmed', COL3_CX, ARC_SUB_Y);
+      ctx.fillText('Confirmed', COL3_CX, ARC_SUB_Y);
 
     } else if (apt != null) {
       // No clinical citations yet → show APT prediction
-      drawArc(ctx, COL3_CX, ARC_CY, ARC_R, apt, '#4CAF50');
+      drawArc(ctx, COL3_CX, ARC_CY, ARC_R, apt, '#c2185b');  // rose — bridges toward clinical pink
 
       ctx.font = 'bold 12px sans-serif';
       ctx.fillStyle = '#222';
@@ -237,24 +249,90 @@
 
       ctx.font = '8px sans-serif';
       ctx.fillStyle = '#999';
-      ctx.fillText('predicted', COL3_CX, ARC_SUB_Y);
+      ctx.fillText('Predicted', COL3_CX, ARC_SUB_Y);
     }
+  }
+
+  // ---------------------------------------------------------------------------
+  // "iC" branding mark + paper-identity tooltip
+  // ---------------------------------------------------------------------------
+  function formatAuthors(authors) {
+    if (!authors) return '';
+    const raw = Array.isArray(authors) ? authors : authors.split(', ');
+    const parts = raw
+      .map(a => typeof a === 'string' ? a.trim() : (a.fullName || a.lastName || ''))
+      .filter(Boolean);
+    if (parts.length <= 3) return parts.join(', ');
+    return parts[0] + '; ' + parts[1] + '; \u2026 ' + parts[parts.length - 1];
+  }
+
+  // Position of the "iC" mark: left whitespace beside the triangle
+  const IC_X = COL1_LEFT + 1;   // 11 px from left
+  const IC_Y = BADGE_PAD + 27;  // 35 px baseline (for 22px font)
+
+  function drawBranding(ctx) {
+    ctx.save();
+    ctx.font = 'bold 22px sans-serif';
+    ctx.textAlign = 'left';
+    ctx.textBaseline = 'alphabetic';
+
+    // putImageData (used by the Gaussian triangle fill) writes alpha=0 to non-triangle
+    // pixels in col-1, erasing anything drawn before the triangle.  Restore white here.
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(COL1_LEFT - 2, TRI_TOP, 25, IC_Y + 4 - TRI_TOP);
+
+    // Gray arc behind "iC" — mirrors the swoosh in the iCite wordmark.
+    // anticlockwise from -30° to +30° sweeps 300° through top, left, and bottom → "(" shape
+    const arcCX = IC_X + 9;
+    const arcCY = IC_Y - 8;
+    const arcR  = 11;
+    ctx.beginPath();
+    ctx.arc(arcCX, arcCY, arcR, -Math.PI / 6, Math.PI / 6, true);
+    ctx.strokeStyle = '#cccccc';
+    ctx.lineWidth = 1.8;
+    ctx.lineCap = 'round';
+    ctx.stroke();
+
+    // "i" in iCite gray
+    ctx.fillStyle = '#65666A';
+    ctx.fillText('i', IC_X, IC_Y);
+
+    // "C" in iCite purple, immediately after "i"
+    ctx.fillStyle = '#662f6c';
+    ctx.fillText('C', IC_X + ctx.measureText('i').width, IC_Y);
+
+    ctx.restore();
   }
 
   // ---------------------------------------------------------------------------
   // Tooltip hit regions
   // ---------------------------------------------------------------------------
   function makeRegions(pub) {
+    const noMesh   = !pub.human && !pub.animal && !pub.molecular_cellular;
     const clinCount = Array.isArray(pub.cited_by_clin) ? pub.cited_by_clin.length : 0;
     const hitR = ARC_R + 10;
 
+    const authorsLine = formatAuthors(pub.authors);
+    const titleLine   = pub.title  || '';
+    const journalLine = [pub.journal, pub.year].filter(Boolean).join(' · ');
+    const pmidLine    = pub.pmid   ? 'PMID ' + pub.pmid : '';
+    const paperTip    = [authorsLine, titleLine, journalLine, pmidLine]
+                          .filter(Boolean).join('\n');
+
     return [
+      {
+        // "iC" mark hit area: generous rectangle covering the top-left corner
+        test: (mx, my) => mx >= COL1_LEFT && mx < COL1_LEFT + 32 && my >= BADGE_PAD && my < IC_Y + 6,
+        tip: paperTip,
+      },
       {
         test: (mx, my) =>
           mx >= COL1_LEFT && mx < COL1_LEFT + COL_W &&
           my >= TRI_TOP   && my <= TRI_TOP + TH &&
           inTriangle(tbx(mx), tby(my)),
-        tip: 'Triangle of Biomedicine\nH = Human, A = Animal, M/C = Molecular/Cellular\nPosition reflects the balance of research focus across these three domains',
+        tip: noMesh
+          ? 'Triangle of Biomedicine\nH = Human, A = Animal, M/C = Molecular/Cellular\nNo MeSH classification available — this paper could not be placed in the Triangle of Biomedicine'
+          : 'Triangle of Biomedicine\nH = Human, A = Animal, M/C = Molecular/Cellular\nPosition reflects the balance of research focus across these three domains',
       },
       {
         test: (mx, my) => Math.hypot(mx - COL2_CX, my - ARC_CY) <= hitR,
@@ -285,6 +363,7 @@
 
     drawTriangle(ctx, pub);
     drawMetrics(ctx, pub);
+    drawBranding(ctx);
 
     // Hover tooltip
     const tipEl = document.createElement('div');

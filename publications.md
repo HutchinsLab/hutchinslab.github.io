@@ -4,6 +4,7 @@ layout: default
 permalink: /publications/
 ---
 {% include cfanalytics.html %}
+{% include icite-badge.html %}
 | [Home](/index) | [Publications](/publications) | [People](/people) | [News](/news) |
 | [Projects](/projects) | [Resources](/resources) | [About](/about) | [Faculty Page](https://ischool.wisc.edu/blog/staff/hutchins-b-ian/) |
 
@@ -76,3 +77,5 @@ Li L, **Hutchins BI**, Kalil K. **Wnt5a induces simultaneous cortical axon outgr
 **Hutchins BI**, Li L. **EphrinA and TrkB interact to promote axon branching.** J Neurosci. 2009 Apr 8;29(14):4329-31. doi: 10.1523/JNEUROSCI.0238-09.2009. PMID: [19357260](https://pubmed.ncbi.nlm.nih.gov/19357260); PMCID: PMC6665738.
 
 **Hutchins BI**, Kalil K. **Differential outgrowth of axons and their branches is regulated by localized calcium transients.** J Neurosci. 2008 Jan 2;28(1):143-53. doi: 10.1523/JNEUROSCI.4548-07.2008. PMID: [18171932](https://pubmed.ncbi.nlm.nih.gov/18171932); PMCID: PMC2474798.
+
+<div class="icite-badge" data-pmid="18171932"></div>

@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## In the News
+- [Career effects of preprints get mixed reviews from biomedical researchers](https://www.science.org/content/article/career-effects-preprints-get-mixed-reviews-biomedical-researchers) - *Science*
+
+- [Metascience Research Lab asks big questions about the future of science and discovery](https://ischool.wisc.edu/2026/03/04/the-metascience-research-lab-is-asking-big-questions-about-the-future-of-science-and-discovery/) - *Metascience Research Lab asks big questions about the future of science and discovery*
 
 - [Journal-based measures of impact make many influential scientists 'invisible'](https://doi.org/10.1126/science.adl2168) — *Science*
 

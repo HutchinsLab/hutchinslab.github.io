@@ -1,0 +1,18 @@
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "People"
+    url: /people/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "About"
+    url: /about/
+
+  - title: "Faculty Page"
+    url: https://ischool.wisc.edu/blog/staff/hutchins-b-ian/

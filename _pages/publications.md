@@ -9,6 +9,8 @@ author_profile: true
 
 ### [iCite profile](https://icite.od.nih.gov/results?searchId=5a647f23135d423bbd3e8f06ab04f623)
 
+Pan Z and **Hutchins BI** (2026) **Quantifying structural vulnerabilities and resilience to research integrity risks in biomedical research networks**, *bioRxiv* doi: [10.64898/2026.06.26.734852](https://doi.org/10.64898/2026.06.26.734852)
+
 Arabi S and **Hutchins BI** (2026) **Forecasting novel therapeutic development in biomedical research**, *bioRxiv* doi: [10.64898/2026.05.29.728775](https://doi.org/10.64898/2026.05.29.728775)
 
 Hong X, **Hutchins BI** and Ni C (2026) **Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints**, *bioRxiv* doi: [10.64898/2026.03.02.709147](https://doi.org/10.64898/2026.03.02.709147)

@@ -15,6 +15,8 @@ Arabi S and **Hutchins BI** (2026) **Forecasting novel therapeutic development i
 
 Hong X, **Hutchins BI** and Ni C (2026) **Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints**, *bioRxiv* doi: [10.64898/2026.03.02.709147](https://doi.org/10.64898/2026.03.02.709147)
 
+Zheng X, Yang Q, Potnuri J, Ni C, and **Hutchins BI** (2026) **Comparing the outputs of intramural and extramural grants funded by National Institutes of Health**, *eLife* doi: [10.7554/eLife.108929](https://doi.org/10.7554/eLife.108929) PMID: [42423372](https://pubmed.ncbi.nlm.nih.gov/42423372/)
+
 Afshar AS, Yang Q, Thebault-Spieker J, and **Hutchins BI** (2026) **Quantifying (Mis)alignment Between Reader Focus and Editor Citation in Scholarly Biomedical Topics in Wikipedia**, *Quantitative Science Studies* doi: [10.1162/QSS.a.457](https://doi.org/10.1162/QSS.a.457)
 
 <div class="icite-badge" data-pmid="41624054"></div>
@@ -24,8 +26,6 @@ Davis MT, Busse BL, Arabi S, Meyer P, Hoppe TA, Meseroll RA, **Hutchins BI**, Wi
 <div class="icite-badge" data-pmid="41401134"></div>
 
 Arabi S, Ni C, and **Hutchins BI** (2025) **Most researchers would receive more recognition if assessed by article level metrics than by journal level metrics**, *PLOS Biology* doi: [10.1371/journal.pbio.3003532](https://doi.org/10.1371/journal.pbio.3003532) PMID: [41401134](https://pubmed.ncbi.nlm.nih.gov/41401134/)
-
-Zheng X, Yang Q, Potnuri J, Ni C, and **Hutchins BI** (2025) **Comparing the outputs of intramural and extramural grants funded by National Institutes of Health**, *eLife* doi: [10.7554/eLife.108929.1](https://doi.org/10.7554/eLife.108929.1)
 
 Arabi S, Zheng X, **Hutchins BI**, Ni C (2025) **Equity in science journalism: Investigating gender disparities in news media coverage of science research**, *Science Communication* doi: [10.1177/10755470251360187](https://doi.org/10.1177/10755470251360187)
 

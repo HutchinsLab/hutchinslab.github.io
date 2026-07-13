@@ -14,13 +14,19 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 ![Knowledge flow in a network of cancer immunotherapy publications](/images/immunotherapy.gif "Knowledge flow in a network of breakthrough cancer immunotherapy publications. Credit, Ian Hutchins")
 
 ## Selected Publications
-### [iCite profile](https://icite.od.nih.gov/analysis?search_id=hzu4cubwaf6sao1c)
+### [iCite profile](https://icite.od.nih.gov/results?searchId=7ebfba87d6a54ef7b40baf2f5d118e01)
 
-Davis MT et al. "Prediction of transformative breakthroughs in biomedical research." *bioRxiv* 2025. doi: [10.64898/2025.12.16.694385](https://www.biorxiv.org/content/10.64898/2025.12.16.694385)
+Pan Z and Hutchins BI (2026) "Quantifying structural vulnerabilities and resilience to research integrity risks in biomedical research networks", *bioRxiv* doi: [10.64898/2026.06.26.734852](https://doi.org/10.64898/2026.06.26.734852)
+
+Arabi S and Hutchins BI (2026) "Forecasting novel therapeutic development in biomedical research", *bioRxiv* doi: [10.64898/2026.05.29.728775](https://doi.org/10.64898/2026.05.29.728775)
+
+Zheng X et al. (2026) "Comparing the outputs of intramural and extramural grants funded by National Institutes of Health", *eLife* doi: [10.7554/eLife.108929](https://doi.org/10.7554/eLife.108929)
+
+Hong X et al (2026) "Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints", *bioRxiv* doi: [10.64898/2026.03.02.709147](https://doi.org/10.64898/2026.03.02.709147)
 
 Arabi S et al. "Most researchers would receive more recognition if assessed by article level metrics than by journal level metrics." *PLOS Biology* 2025. doi: [10.1371/journal.pbio.3003532](https://doi.org/10.1371/journal.pbio.3003532)
 
-Zheng X et al. "Comparing the outputs of intramural and extramural grants funded by National Institutes of Health." *eLife* 2025. doi: [10.7554/eLife.108929.1](https://doi.org/10.7554/eLife.108929.1)
+Davis MT et al. "Prediction of transformative breakthroughs in biomedical research." *bioRxiv* 2025. doi: [10.64898/2025.12.16.694385](https://www.biorxiv.org/content/10.64898/2025.12.16.694385)
 
 Ni C and Hutchins BI. "Framework for assessing the risk to a field from fraudulent researchers: A case study of Alzheimer's disease." *JASIST* 2025. doi: [10.1002/asi.25009](https://doi.org/10.1002/asi.25009)
 

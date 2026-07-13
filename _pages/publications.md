@@ -15,6 +15,8 @@ Arabi S and **Hutchins BI** (2026) **Forecasting novel therapeutic development i
 
 Hong X, **Hutchins BI** and Ni C (2026) **Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints**, *bioRxiv* doi: [10.64898/2026.03.02.709147](https://doi.org/10.64898/2026.03.02.709147)
 
+<div class="icite-badge" data-pmid="42423372"></div>
+
 Zheng X, Yang Q, Potnuri J, Ni C, and **Hutchins BI** (2026) **Comparing the outputs of intramural and extramural grants funded by National Institutes of Health**, *eLife* doi: [10.7554/eLife.108929](https://doi.org/10.7554/eLife.108929) PMID: [42423372](https://pubmed.ncbi.nlm.nih.gov/42423372/)
 
 Afshar AS, Yang Q, Thebault-Spieker J, and **Hutchins BI** (2026) **Quantifying (Mis)alignment Between Reader Focus and Editor Citation in Scholarly Biomedical Topics in Wikipedia**, *Quantitative Science Studies* doi: [10.1162/QSS.a.457](https://doi.org/10.1162/QSS.a.457)

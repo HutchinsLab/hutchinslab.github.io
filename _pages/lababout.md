@@ -10,7 +10,7 @@ Ian is an Assistant Professor of Data and Information Science at the University 
 ![Ian Hutchins](/images/ian_256.png)
 
 **Office**  
-Helen C White Hall  
+Morgridge Hall  
 1205 University Ave, Rm. 4687  
 Madison, WI 53706  
 

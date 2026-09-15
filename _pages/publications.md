@@ -101,6 +101,10 @@ Li L, Fothergill T, **Hutchins BI**, Dent EW, Kalil K (2014) **Wnt5a evokes cort
 
 **Hutchins BI** (2013) **Embed dynamic content in your poster**, *Sci Signal* 6(260):tr1 doi: [10.1126/scisignal.2003623](https://doi.org/10.1126/scisignal.2003623) PMID: [23362241](https://pubmed.ncbi.nlm.nih.gov/23362241) PMCID: PMC3798019
 
+<div class="icite-badge" data-pmid="22976302"></div>
+
+Casoni F, **Hutchins BI**, Donohue D, Fornaro M, Condie BG and Wray S (2012) SDF and GABA interact to regulate axophilic migration of GnRH-1 neurons. Journal of Cell Science 125(21):5015-5025 doi: [10.1242/jcs.101675](https://doi.org/10.1242/jcs.101675) PMID: [22976302](https://pubmed.ncbi.nlm.nih.gov/22976302)
+
 <div class="icite-badge" data-pmid="22234611"></div>
 
 **Hutchins BI**, Li L, Kalil K (2012) **Wnt-induced calcium signaling mediates axon growth and guidance in the developing corpus callosum**, *Sci Signal* 5(206):pt1 doi: [10.1126/scisignal.2002523](https://doi.org/10.1126/scisignal.2002523) PMID: [22234611](https://pubmed.ncbi.nlm.nih.gov/22234611)

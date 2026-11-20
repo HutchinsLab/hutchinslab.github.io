@@ -18,7 +18,7 @@ We seek avenues to improve the research enterprise and accelerate biomedical res
 
 Pan Z and Hutchins BI (2026) "Quantifying structural vulnerabilities and resilience to research integrity risks in biomedical research networks", *bioRxiv* doi: [10.64898/2026.06.26.734852](https://doi.org/10.64898/2026.06.26.734852)
 
-Arabi S and Hutchins BI (2026) "Forecasting novel therapeutic development in biomedical research", *bioRxiv* doi: [10.64898/2026.05.29.728775](https://doi.org/10.64898/2026.05.29.728775)
+Arabi S and Hutchins BI (2026) "Forecasting novel therapeutic development in biomedical research", *Communications Medicine* 6(1):603 doi: [10.1038/s43856-026-01838-6](https://doi.org/10.1038/s43856-026-01838-6) PMID: [43058200](https://pubmed.ncbi.nlm.nih.gov/43058200/)
 
 Zheng X et al. (2026) "Comparing the outputs of intramural and extramural grants funded by National Institutes of Health", *eLife* doi: [10.7554/eLife.108929](https://doi.org/10.7554/eLife.108929)
 

@@ -13,7 +13,9 @@ Pan Z and **Hutchins BI** (2026) **Quantifying structural vulnerabilities and re
 
 Hong X, **Hutchins BI** and Ni C (2026) **Faster science, penalties in evaluation, and concerns on quality and impact: Researchers' use and perceptions of preprints**, *bioRxiv* doi: [10.64898/2026.03.02.709147](https://doi.org/10.64898/2026.03.02.709147)
 
-Arabi S and **Hutchins BI** (2026) **Forecasting novel therapeutic development in biomedical research**, *Communications Medicine* doi: [10.1038/s43856-026-01838-6](https://doi.org/10.1038/s43856-026-01838-6)
+<div class="icite-badge" data-pmid="43058200"></div>
+
+Arabi S and **Hutchins BI** (2026) **Forecasting novel therapeutic development in biomedical research**, *Communications Medicine* 6(1):603 doi: [10.1038/s43856-026-01838-6](https://doi.org/10.1038/s43856-026-01838-6) PMID: [43058200](https://pubmed.ncbi.nlm.nih.gov/43058200/)
 
 <div class="icite-badge" data-pmid="42423372"></div>
 
